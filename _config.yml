@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "YS_Log"
-title_separator          : "-"
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "YoungSeo Kim"
-description              : "-"
+description              : ""
 url                      : "https://zerow41.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "YoungSeo Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  # bio              : ""
+  bio              : ""
   # location         : ""
   # email            : "dudtj0410@google.com"
   links:
