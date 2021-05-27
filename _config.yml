@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "log"
+title                    : "YS_Log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "YoungSeo Kim"
@@ -96,13 +96,13 @@ analytics:
 author:
   name             : "YoungSeo Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
-  location         : ""
-  email            : "dudtj0410@naver.com"
+  # bio              : ""
+  # location         : ""
+  # email            : "dudtj0410@google.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:dudtj0410@naver.com"
+      url: "mailto:dudtj0410@google.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://zerow41.github.io/"
