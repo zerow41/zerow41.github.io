@@ -4,7 +4,6 @@ title: About
 ---
 
 * YoungSeo Kim
-* 2000.04.10
 * Computer Engineering(Software Convergence), Hankyong National University
 
 ## Contact
